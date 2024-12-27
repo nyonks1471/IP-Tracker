@@ -71,7 +71,7 @@ ${yellow} | || |_) |____| || '__/ _' |/ __| |/ / _ \ '__|
 ${blue} | ||  __/_____| || | | (_| | (__|   <  __/ |
 ${green}|___|_|        |_||_|  \__,_|\___|_|\_\___|_|
 ${yellow}                                       [v${version}]
-${purple}                               [By KasRoudra]
+${purple}                               [By Dancan]
 "
 
 ngrok_help="
